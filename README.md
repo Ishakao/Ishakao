@@ -10,7 +10,7 @@
   </tr>
 
   <tr align="center">
-    <td style="display: none"></td>
+    <td style="display: table-row"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="90" height="90"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="90" height="90"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="90" height="90"></td>
