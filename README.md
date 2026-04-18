@@ -10,10 +10,9 @@
   </tr>
 
   <tr align="center">
-    <td style="border:none; background:transparent;"></td>
+  <td colspan="2"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="90" height="90"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="90" height="90"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="90" height="90"></td>
-    <td style="border:none; background:transparent;"></td>
-  </tr>
+  <td colspan="2"></td>
 </table>
