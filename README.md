@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>C++ and C Developer</b><br/>
-  Frontend • Backend • Low-level • Automation
+  App C++ Frontend • Backend • Low-level • Automation
 </p>
 
 ---
